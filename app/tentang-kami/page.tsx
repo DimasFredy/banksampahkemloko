@@ -13,7 +13,7 @@ const TentangKamiPage: FC = () => {
           {/* Gambar kiri */}
           <div className="flex justify-center md:justify-start items-center">
             <Image
-              src="/images/14.png"
+              src="/images/tim2.JPG"
               alt="Tim KKN UGM"
               width={250}
               height={250}
