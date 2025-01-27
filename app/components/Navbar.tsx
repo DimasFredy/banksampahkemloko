@@ -60,7 +60,7 @@ export default function Navbar() {
           {/* Dropdown Menu */}
           <div className="relative">
             <button
-              className="text-white block mt-4 md:mt-0 flex items-center"
+              className="text-white mt-4 md:mt-0 flex items-center"
               onClick={toggleMenu}
             >
               Menu

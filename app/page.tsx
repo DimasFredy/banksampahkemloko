@@ -28,9 +28,9 @@ export default function Home() {
             >
               <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-center text-white">
                 <div>
-                  <h1 className="text-5xl font-bold mb-4">20 Tahun Lebih Mengelola Sampah Desa</h1>
+                  <h1 className="text-4xl font-bold mb-4">Solusi Sampah Berkelanjutan</h1>
                   <p className="text-lg mb-6">
-                    Kami berkontribusi untuk lingkungan dengan mengelola sampah organik dan
+                    Berkontribusi untuk lingkungan dengan mengelola sampah organik dan
                     anorganik secara berkelanjutan.
                   </p>
                   <Link
@@ -50,9 +50,9 @@ export default function Home() {
             >
               <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-center text-white">
                 <div>
-                  <h1 className="text-5xl font-bold mb-4">Konservasi Lingkungan</h1>
+                  <h1 className="text-4xl font-bold mb-4">Konservasi Lingkungan</h1>
                   <p className="text-lg mb-6">
-                    Mendorong keberlanjutan dengan pengelolaan sampah yang efektif.
+                    Mendorong keberlanjutan dengan pengelolaan sampah yang efektif
                   </p>
                   <Link
                     href="/tentang-kami"
@@ -71,9 +71,9 @@ export default function Home() {
             >
               <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-center text-white">
                 <div>
-                  <h1 className="text-5xl font-bold mb-4">Gerakan Peduli Sampah</h1>
+                  <h1 className="text-4xl font-bold mb-4">Gerakan Peduli Sampah</h1>
                   <p className="text-lg mb-6">
-                    Bersama-sama menjaga kebersihan lingkungan melalui pengelolaan sampah.
+                    Bersama-sama menjaga kebersihan lingkungan melalui pengelolaan sampah
                   </p>
                   <Link
                     href="/tentang-kami"
@@ -131,7 +131,7 @@ export default function Home() {
             className="mx-auto mb-4"
           />
           <h2 className="text-2xl font-bold mb-4 text-yellow-800">Peta Persebaran</h2>
-          <p className="text-gray-700 mb-4">Informasi persebaran titik bank sampah di desa Kemloko.</p>
+          <p className="text-gray-700 mb-4">Rekomendasi persebaran titik bank sampah di desa Kemloko.</p>
           <Link href="/menu/peta-persebaran" className="text-yellow-600 font-bold hover:underline">
             Lihat Detail
           </Link>

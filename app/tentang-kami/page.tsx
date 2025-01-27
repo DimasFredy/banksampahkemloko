@@ -13,8 +13,8 @@ const TentangKamiPage: FC = () => {
           {/* Gambar kiri */}
           <div className="flex justify-center md:justify-start items-center">
             <Image
-              src="/images/tim2.JPG"
-              alt="Tim KKN UGM"
+              src="/images/tim2.jpg"
+              alt="Foto aktivitas tim 1"
               width={250}
               height={250}
               className="rounded shadow"
@@ -23,14 +23,14 @@ const TentangKamiPage: FC = () => {
 
           {/* Penjelasan kanan */}
           <div className="flex-1 text-black text-justify hyphens-auto">
-            <p className="mb-4">
+            <p className="mb-4" style={{ wordSpacing: 'normal' }}>
               Tim KKN kami terlibat dalam berbagai aktivitas untuk mendukung pengelolaan
-              sampah di desa. Kami bekerja sama dengan masyarakat untuk memilah sampah
+              sampah di Desa Kemloko. Kami bekerja sama dengan masyarakat untuk memilah sampah
               organik dan anorganik, serta mengedukasi pentingnya daur ulang untuk lingkungan
               yang lebih bersih.
             </p>
             <p>
-              Dengan pendekatan berbasis komunitas, kami telah membantu menciptakan produk
+              Melalui kolaborasi erat dengan masyarakat, kami telah membantu menciptakan produk
               ramah lingkungan dan meningkatkan kesadaran masyarakat akan pentingnya
               pengelolaan sampah yang berkelanjutan.
             </p>

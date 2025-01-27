@@ -48,7 +48,7 @@ const AnorganikPage: FC = () => {
         <p className="text-black text-justify">
           Sampah anorganik seperti plastik dapat diolah menjadi paving blok dengan metode sederhana. Proses ini membantu mengurangi sampah plastik di masyarakat.
         </p>
-        <img src="/images/tim1.JPG" alt="Skema Paving Blok" className="mt-4 w-full sm:w-full md:w-1/2 lg:w-1/3 mx-auto" />
+        <img src="/images/tim1.jpg" alt="Skema Paving Blok" className="mt-4 w-full sm:w-full md:w-1/2 lg:w-1/3 mx-auto" />
         <p className="text-black text-center mt-2">Skema Paving Blok</p>
 
         <h4 className="text-lg font-semibold mt-4">Manfaat:</h4>
@@ -88,7 +88,7 @@ const AnorganikPage: FC = () => {
         <p className="text-black text-justify">
           Sampah anorganik seperti plastik dapat diolah menjadi paving blok dengan metode sederhana. Proses ini membantu mengurangi sampah plastik di masyarakat.
         </p>
-        <img src="/images/tim1.JPG" alt="Skema Paving Blok" className="mt-4 w-full sm:w-full md:w-1/2 lg:w-1/3 mx-auto" />
+        <img src="/images/tim1.jpg" alt="Skema Paving Blok" className="mt-4 w-full sm:w-full md:w-1/2 lg:w-1/3 mx-auto" />
         <p className="text-black text-center mt-2">Skema Paving Blok</p>
 
         <h4 className="text-lg font-semibold mt-4">Manfaat:</h4>

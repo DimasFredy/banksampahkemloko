@@ -34,15 +34,14 @@ const StickyContact = () => {
           </div>
           {/* Deskripsi */}
           <p className="text-sm mt-4 leading-relaxed">
-            Kami bangga menjadi salah satu fasilitas daur ulang plastik di Indonesia. <br />
-            Mari bersama wujudkan masa depan bebas polusi plastik.
+            Ayo, bersama ciptakan desa bebas sampah untuk lingkungan yang lebih sehat dan berkelanjutan.
           </p>
         </div>
 
         {/* Bagian Kanan: Kontak */}
-        <div className="text-center md:text-left mt-6 md:mt-0">
-          <h3 className="font-bold text-lg">Kontak</h3>
-          <ul className="mt-4 space-y-2 text-sm">
+        <div className="text-center md:text-left mt-6 md:mt-0 space-y-2">
+          <h3 className="font-bold text-lg">Kontak Kami</h3>
+          <ul className="space-y-1 text-sm">
             <li>WhatsApp: +62 823463 39593</li>
             <li>Email: kkn@ugm.ac.id</li>
             <li>Instagram: @pesonakranggan</li>
