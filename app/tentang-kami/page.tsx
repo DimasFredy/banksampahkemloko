@@ -5,7 +5,7 @@ const TentangKamiPage: FC = () => {
   return (
     <div className="container mx-auto p-4">
       {/* Bagian Tim KKN Kami */}
-      <section className="mt-8">
+      <section className="mt-2">
         <h2 className="text-3xl font-bold mb-4 text-black text-center">
           Tim KKN Kami
         </h2>
@@ -25,7 +25,7 @@ const TentangKamiPage: FC = () => {
           <div className="flex-1 text-black text-justify hyphens-auto">
             <p className="mb-4" style={{ wordSpacing: 'normal' }}>
               Tim KKN kami terlibat dalam berbagai aktivitas untuk mendukung pengelolaan
-              sampah di Desa Kemloko. Kami bekerja sama dengan masyarakat untuk memilah sampah
+              sampah di Desa Kemloko. Kami bekerja sama dengan masyarakat dan pemerintah untuk memilah sampah
               organik dan anorganik, serta mengedukasi pentingnya daur ulang untuk lingkungan
               yang lebih bersih.
             </p>

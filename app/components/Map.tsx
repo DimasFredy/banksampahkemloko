@@ -1,9 +1,9 @@
 import { FC } from 'react';
 
 const Map: FC = () => {
-  const mapUrl = "https://www.google.com/maps/d/u/0/embed?mid=1wjrbMf4Ua1yizTiEOnn5s-x2_BFT0PU&ll=-7.303819510405737%2C110.22037915301902&z=16"
+  const mapUrl = "https://www.google.com/maps/d/u/0/embed?mid=1sPzBAXzzPVWsnAgcjGdmiF5gYIrqpb8&ehbc=2E312F&noprof=1" 
   return (
-    <div className="w-full h-80 bg-gray-200">
+    <div className="w-full h-screen  bg-gray-200">
       <iframe
         src={mapUrl}
         width="100%"

@@ -6,7 +6,7 @@ import StickyContact from './components/StickyContact'; // Impor komponen Sticky
 
 // Metadata halaman
 export const metadata = {
-  title: 'Bank Sampah Desa',
+  title: 'Bank Sampah Kemloko',
   description: 'Program KKN Bank Sampah Desa',
 };
 

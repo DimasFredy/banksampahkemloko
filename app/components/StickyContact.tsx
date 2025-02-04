@@ -42,7 +42,6 @@ const StickyContact = () => {
         <div className="text-center md:text-left mt-6 md:mt-0 space-y-2">
           <h3 className="font-bold text-lg">Kontak Kami</h3>
           <ul className="space-y-1 text-sm">
-            <li>WhatsApp: +62 823463 39593</li>
             <li>Email: kkn@ugm.ac.id</li>
             <li>Instagram: @pesonakranggan</li>
           </ul>
